@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TASMOD</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            font-size: 32px;
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+        .object-info {
+            margin-top: 20px;
+        }
+        .object-info h2 {
+            font-size: 24px;
+            color: #333;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        .object-info p {
+            margin-bottom: 10px;
+        }
+        .object-description {
+            margin-top: 20px;
+        }
+        .object-description h2 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .object-description p {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>TSD #001</h1>
+
+    <div class="object-info">
+        <h2>Información del Objeto</h2>
+        <p><strong>Nombre:</strong> TSD #001 </p>
+        <p><strong>Clasificación:</strong> </p>
+        <p><strong>Procedimientos Especiales de Contención:</strong> TSD #001 debe ser almacenado en una cocina vigilada 
+        en el Sitio-██, en una habitación de contención estándar para objetos anómalos. El acceso a TSD #001 requiere la 
+        autorización de al menos un investigador de Nivel 3 o superior.</p>
+    </div>
+
+    <div class="object-description">
+        <h2>Descripción</h2>
+        <p>
+            TSD #001 es una caja de pizza "estándar" de Little Caesars, ensamblada de manera deficiente</p>
+        <p>
+            La anomalía de TSD #001 desconcierta al duplicarse cada vez que intentamos desecharla.
+             Este fenómeno desafía nuestras nociones sobre la conservación de la materia y plantea preguntas sobre la naturaleza del universo
+              Su persistencia despierta especulaciones científicas y fantásticas, pero las respuestas siguen siendo esquivas.
+               Mientras intentamos deshacernos de ella, la anomalía sigue creciendo, desafiando nuestras percepciones y generando interrogantes sin respuesta.
+              </p>
+        <p>
+            El origen de esta anomalía sigue siendo un misterio. A pesar de los esfuerzos de investigación, aún no se ha logrado determinar qué la está causando.
+             Se requiere un análisis más detallado y exhaustivo para obtener una comprensión completa de este fenómeno.</p>
+    </div>
+</div>
+
+</body>
+</html>
